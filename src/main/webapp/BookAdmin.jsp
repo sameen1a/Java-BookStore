@@ -24,7 +24,7 @@
 	                <th>Title</th>
 	                <th>Author</th>
 	                <th>Price</th>
-                  <th><a href="new">Add Book</a></th>
+                  	<th><a href="new">Add Book</a></th>
 	            </tr>
 
 	 			      <c:forEach items="${books}" var="item">
